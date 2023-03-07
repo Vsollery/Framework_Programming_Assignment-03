@@ -42,6 +42,8 @@
 
 ### Use SQLite asynchronously
 
+<img src="/store-local-data-main/img/async_4.png" width="80%" height="80%" />
+
 
 
 
