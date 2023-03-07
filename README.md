@@ -38,6 +38,10 @@
 <img src="/consume-rest-services-main/img/DELETE.png" width="80%" height="80%" />
 
 ---
+## Exercise 2
+
+### Use SQLite asynchronously
+
 
 
 
